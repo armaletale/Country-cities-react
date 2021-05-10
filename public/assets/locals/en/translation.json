@@ -1,0 +1,11 @@
+{
+  "app_title": "Title",
+  "language": "Language",
+  "country": "Country",
+  "population": "Cities",
+  "submit": "Submit",
+  "delete": "Delete",
+  "update": "Update",
+  "welcome_message": "Welcome to cities in a Country",
+  "days_since_release": "Enter the country and the number of cities in the country"
+}

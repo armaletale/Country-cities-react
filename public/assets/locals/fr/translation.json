@@ -1,0 +1,11 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "country": "Pays",
+  "population": "Villes",
+  "submit": "Soumettre",
+  "delete": "Effacer",
+  "update": "Mettre à jour",
+  "welcome_message": "Bienvenue dans les villes d'un pays",
+  "days_since_release": "Entrez le pays et le nombre de villes du pays"
+}

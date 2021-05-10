@@ -1,0 +1,11 @@
+{
+  "app_title": "cím",
+  "language": "nyelv",
+  "country": "Országok",
+  "population": "városok",
+  "submit": "Beküldés",
+  "delete": "Töröl",
+  "update": "Frissítés",
+  "welcome_message": "Üdvözöljük egy ország városaiban",
+  "days_since_release": "Adja meg az országot és az ország városainak számát"
+}
