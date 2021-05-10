@@ -1,0 +1,11 @@
+{
+  "app_title": "عنوان",
+  "language": "اللغة",
+  "country": "بلد",
+  "population": "مدن",
+  "submit": "قدم",
+  "delete": "شطب",
+  "update": "تحديث",
+  "welcome_message": "مرحبًا بكم في مدن بلد ما",
+  "days_since_release": "أدخل الدولة وعدد المدن في الدولة"
+}

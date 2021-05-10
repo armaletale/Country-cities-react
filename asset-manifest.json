@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Country-cities/static/css/main.155fdc62.chunk.css",
+    "main.js": "/Country-cities/static/js/main.c6bf8710.chunk.js",
+    "main.js.map": "/Country-cities/static/js/main.c6bf8710.chunk.js.map",
+    "runtime-main.js": "/Country-cities/static/js/runtime-main.af35f8ac.js",
+    "runtime-main.js.map": "/Country-cities/static/js/runtime-main.af35f8ac.js.map",
+    "static/css/2.0323f27c.chunk.css": "/Country-cities/static/css/2.0323f27c.chunk.css",
+    "static/js/2.f143ad5d.chunk.js": "/Country-cities/static/js/2.f143ad5d.chunk.js",
+    "static/js/2.f143ad5d.chunk.js.map": "/Country-cities/static/js/2.f143ad5d.chunk.js.map",
+    "index.html": "/Country-cities/index.html",
+    "static/css/2.0323f27c.chunk.css.map": "/Country-cities/static/css/2.0323f27c.chunk.css.map",
+    "static/css/main.155fdc62.chunk.css.map": "/Country-cities/static/css/main.155fdc62.chunk.css.map",
+    "static/js/2.f143ad5d.chunk.js.LICENSE.txt": "/Country-cities/static/js/2.f143ad5d.chunk.js.LICENSE.txt",
+    "static/media/flag-icon.min.css": "/Country-cities/static/media/zw.f5ceeff7.svg",
+    "static/media/getFetch.cjs": "/Country-cities/static/media/getFetch.d7d6010d.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af35f8ac.js",
+    "static/css/2.0323f27c.chunk.css",
+    "static/js/2.f143ad5d.chunk.js",
+    "static/css/main.155fdc62.chunk.css",
+    "static/js/main.c6bf8710.chunk.js"
+  ]
+}
